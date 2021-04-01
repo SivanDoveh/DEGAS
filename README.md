@@ -1,5 +1,5 @@
-# SEGAN: Searching  Efficiently for new GANs
-This project is for reproducing the results of paper SEGAN: Searching  Efficiently for new GANs
+# DEGAS: Differentiable Efficient Generator Search
+This project is for reproducing the results of paper DEGAS: Differentiable Efficient Generator Search
 
 ## Prerequisites
 - Python 3.5.5,TensorFlow 1.4.0, NumPy, SciPy, Sklearn
